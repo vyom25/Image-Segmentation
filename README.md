@@ -6,4 +6,4 @@ image will get assigned to a given label.The, task of image segmentation is to t
 network and from K-means Clustering. This would help us in having a understanding the
 image in a great detail ,ie, pixel level.
 
-# Dataset : https://www.robots.ox.ac.uk/vgg/data/pets/
+# Dataset : https://www.robots.ox.ac.uk/~vgg/data/pets/
